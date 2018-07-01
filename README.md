@@ -23,7 +23,7 @@ I took the top Industry/Sectors from 2017 for San Mateo County, and looked at ho
 There has been a dramatic change in the relative importance of different industries in San Mateo County in the past 25 years.
 The Professional, Scientific, & Technical Services (NCAIS code 54, PSTS) shows the most dramatic increase in employees over time for this time frame.  At the same time that the other sectors show a decline, fluctuate around the same number of employees, or show moderate gains in employees, the PSTS and Information sectors have increased dramatically.  The PSTS Industry code includes: computer program or software development, computer software support services, computer software consulting services, computer hardware consulting services, information management computer systems, computer-aided design services, etc. 
 
-# What is the age and gender distribution of workers in San Mateo County?
+# Current Age and gender distribution of workers in San Mateo County
 
 Comparing the 2017 Census data for San Mateo County for all sectors to the profile for the Professional, Scientific, & Technical Services industry, shows the breakdown of employees by age group and gender.
 
@@ -31,6 +31,6 @@ Comparing the 2017 Census data for San Mateo County for all sectors to the profi
 
 It looks as though there is a bias towards male employees in the middle age groups for the PSTS industry.
 
-# How has the age and gender distribution changed over time for PSTS in San Mateo County?
+# Change in age and gender distribution for PSTS in San Mateo County
 
 
