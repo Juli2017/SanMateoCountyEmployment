@@ -17,7 +17,7 @@ Data downloaded from QWI explorer at : https://qwiexplorer.ces.census.gov/static
 
 I took the top Industry/Sectors from 2017 for San Mateo County, and looked at how the number of employees varied over time from 1992 to 2017.  During this time frame, the High Tech boom saw a rapid rise in companies headquartered in San Mateo County, starting with FaceBook in 19xx.
 
-<img align="left" src="img/Filterd_facet_SMCBySectorByYearThinGray.png" width=200 > ![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
+![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
 
 It is clear that the Professional, Scientific, & Technical Services (NCAIS code 54) is a good represenative in growth in High Tech jobs.  This Industry code includes: computer program or software development, computer software support services, computer software consulting services, computer hardware consulting services, information management computer systems, computer-aided design services, etc. 
 
