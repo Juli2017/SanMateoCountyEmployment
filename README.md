@@ -15,7 +15,8 @@ San Mateo County (SMC) is located in the San Francisco Bay Area, between the hea
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
 
-U.S. Census Data downloaded from QWI explorer at : https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0
+<a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>
+
 
 # Change in San Mateo County Employment by Sector Over Time
 
