@@ -16,3 +16,7 @@ San Francisco County increased the number of LCAs filed in the ten year period f
 [Image](https://github.com/Juli2017/SanMateoCountyEmployment/blob/master/img/CompareOrderSectorsCASMC%25.png?raw=true)
 
 Test
+
+<img align="left" src="img/CompareOrderSectorsCASMC%25.png" width=200 > ![](img/CompareOrderSectorsCASMC%25.png)  
+
+Test2
