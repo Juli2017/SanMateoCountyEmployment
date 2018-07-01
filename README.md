@@ -35,8 +35,11 @@ Comparing the 2017 Census data for San Mateo County for all sectors to the profi
 
 ![](img/SanMateoCountyButterflyChartSectorSexAgeComparison2017.png)  
 
-It looks as though there is a bias towards male employees in the middle age groups for the PSTS industry.
+With few exceptions, males dominate all age groups in number of employees in 2017.
 
-# Change in age and gender distribution for PSTS in San Mateo County
+![](img/PSTSGenderDiffByAgeGroupYearNumbers.png) 
+
+Over time, the absolute difference in employees for the main employment age groups (25-45 years old) within the Professional, Scientific, & Technical Services Sector in San Mateo County has increased significantly since 1992.
+
 
 
