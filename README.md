@@ -11,7 +11,7 @@ Looking at the U.S. Census data for 2017, San Mateo County is near the heart of 
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
 
-Data downloaded from QWI explorer at : https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0
+U.S. Census Data downloaded from QWI explorer at : https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0
 
 # Change in San Mateo County Employment by Sector Over Time
 
