@@ -6,7 +6,7 @@ Project for MOOC Data Visualization for Storytelling and Discovery
 
 How does the employment of people in San Mateo County California compare to the state of California?
 
-Looking at the U.S. Census data for 2017, San Mateo County is near the heart of Silicon Valley and the type of industries where people are employed reflect the emphasis on High Tech jobs as compared to the state as a whole.  The percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California as a whole.  Similarly, the Information Sector has almost twice the percentage of workers in SMC as there are in California as a whole.
+Looking at the U.S. Census data for 2017, San Mateo County is near the heart of Silicon Valley and the type of industries where people are employed reflect the emphasis on High Tech jobs as compared to the state as a whole.  The percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California as a whole.  Similarly, the Information Sector has over twice the percentage of workers in SMC as there are in California as a whole.
 
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
@@ -16,6 +16,7 @@ Data downloaded from QWI explorer at : https://qwiexplorer.ces.census.gov/static
 # Change in San Mateo County Employment by Sector Over Time
 
 I took the top Industry/Sectors from 2017 for San Mateo County, and looked at how the number of employees varied over time from 1992 to 2017.  During this time frame, the High Tech boom saw a rapid rise in companies headquartered in San Mateo County, starting with FaceBook in 19xx.
+##Trends in San Mateo County Employment by Sector: 1992-2017
 
 ![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
 
