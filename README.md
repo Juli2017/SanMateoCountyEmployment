@@ -15,9 +15,9 @@ San Mateo County (SMC) is located in the San Francisco Bay Area, between the hea
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
 
-<a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
+<a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>
 
-<a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">U.S. Census Data downloaded from QWI explorer</a>
+<a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
 # Change in San Mateo County Employment by Sector Over Time
 
 I took the top Industry/Sectors from 2017 for San Mateo County, and looked at how the number of employees varied over time from 1992 to 2017.  During this time frame, the High Tech boom saw a rapid rise in companies headquartered in San Mateo County, starting with FaceBook in 19xx.
