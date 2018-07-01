@@ -9,7 +9,7 @@ How does the employment of people in San Mateo County California compare to the 
 Looking at the U.S. Census data for 2017, San Mateo County is near the heart of Silicon Valley and the type of industries where people are employed reflect the emphasis on High Tech jobs as compared to the state as a whole.
 
 
-<img align="left" src="img/CompareOrderSectorsCASMC%25.png" width=200 > ![](img/CompareOrderSectorsCASMC%25.png)  
+![](img/CompareOrderSectorsCASMC%25.png)  
 
 Data downloaded from QWI explorer at : https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0
 
@@ -19,4 +19,16 @@ I took the top Industry/Sectors from 2017 for San Mateo County, and looked at ho
 
 <img align="left" src="img/Filterd_facet_SMCBySectorByYearThinGray.png" width=200 > ![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
 
-It is clear that the Professional, Scientific, & Technical Services (NCAIS code 54) is a good represenative in growth in High Tech jobs.  This Industry code includes: computer program or software development, computer software support services, computer software consulting services, computer hardware consulting services, information management computer systems, computer-aided design services, etc.  
+It is clear that the Professional, Scientific, & Technical Services (NCAIS code 54) is a good represenative in growth in High Tech jobs.  This Industry code includes: computer program or software development, computer software support services, computer software consulting services, computer hardware consulting services, information management computer systems, computer-aided design services, etc. 
+
+# What is the age and gender distribution of workers in San Mateo County?
+
+I took 2017 Census data for San Mateo County, and compared the breakdown of employees by age group and gender for all industries to the same breakdown for the Professional, Scientific, & Technical Services Sector.
+
+![](img/SanMateoCountyButterflyChartSectorSexAgeComparison2017.png)  
+
+It looks as though there is a bias towards male employees in the middle age groups.
+
+
+
+
