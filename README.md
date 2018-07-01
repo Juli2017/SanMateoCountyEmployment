@@ -1,7 +1,7 @@
 Link to website: https://juli2017.github.io/SanMateoCountyEmployment/
 
 
-# Data on distribution of employees by industry in San Mateo County, CA in the past 25 years
+# Data on changes distribution of employees by industry in San Mateo County, CA in the last 25 years
 Project for MOOC Data Visualization for Storytelling and Discovery
 
 U.S. Census data were visualized to compare the distribution of employment in San Mateo County
