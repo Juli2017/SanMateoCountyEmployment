@@ -10,7 +10,7 @@ U.S. Census data were visualized to compare changes in the distribution of emplo
 
 
 
-San Mateo County (SMC) is located in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  Fast-growing high tech companies have located in the county in the past 25 years, along with biotech, finance, and others (<a href="https://juli2017.github.io/EmployerPointMap/">Map of large employers in SMC</a>).  The change over time in which industries employ the majority of workers in the county reflects the recent emphasis on High Tech jobs in this part of the state.  For the latest year of data, compared to the state as a whole , the percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector has over twice the percentage of workers in SMC as there are in California.
+San Mateo County (SMC) is located in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  Fast-growing high tech companies have located in the county in the past 25 years, along with biotech, finance, and gaming software companies (<a href="https://juli2017.github.io/EmployerPointMap/">Map of large employers in SMC</a>).  The change over time in which industries employ the majority of workers in the county reflects the recent emphasis on High Tech jobs in this part of the state.  For the latest year of data, compared to the state as a whole , the percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector has over twice the percentage of workers in SMC as there are in California.
 
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
@@ -20,7 +20,7 @@ San Mateo County (SMC) is located in the San Francisco Bay Area, between the hea
 <a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
 # Change in San Mateo County Employment by Sector Over Time
 
-I took the top Industry/Sectors from 2017 for San Mateo County, and looked at how the number of employees varied over time from 1992 to 2017.  
+
 ## Trends in San Mateo County Employment by Sector: 1992-2017
 
 ![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
