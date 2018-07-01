@@ -10,7 +10,7 @@ U.S. Census data were visualized to compare the distribution of employment in Sa
 
 
 
-Looking at the U.S. Census data for 2017, San Mateo County is near the heart of Silicon Valley and the type of industries where people are employed reflect the emphasis on High Tech jobs as compared to the state as a whole.  The percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California as a whole.  Similarly, the Information Sector has over twice the percentage of workers in SMC as there are in California as a whole.
+San Mateo County (SMC) is located in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  The change in which industries employ the majority of workers reflects the recent emphasis on High Tech jobs in this part of the state.  For example, the percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California as a whole.  Similarly, the Information Sector has over twice the percentage of workers in SMC as there are in California as a whole.
 
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
