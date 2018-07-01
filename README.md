@@ -29,7 +29,7 @@ There has been a dramatic change in the relative importance of different industr
 ![](img/SMCPercentGrowthSince1992BySector.png)  
 
 Visualizing the percent change by sector in number of employees over time, relataive to the number in 1992, it is striking that the top 3 industries in 1992 (Retail Trade, Manufacturing, Transportation and Warehousing) were not part of the job growth as seen in 2017.  The Information sector, though showing an over 300% growth rate, showed much more volatility over time.
-# Current Age and gender distribution of workers in San Mateo County
+# Age and Gender distribution of workers in San Mateo County
 
 Comparing the 2017 Census data for San Mateo County for all sectors to the profile for the Professional, Scientific, & Technical Services industry, shows the breakdown of employees by age group and gender.
 
