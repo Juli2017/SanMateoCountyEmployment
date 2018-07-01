@@ -18,7 +18,6 @@ San Mateo County (SMC) is located in the San Francisco Bay Area, between the hea
 <a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>
 
 <a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
-# Change in San Mateo County Employment by Sector Over Time
 
 
 ## Trends in San Mateo County Employment by Sector: 1992-2017
@@ -26,7 +25,7 @@ San Mateo County (SMC) is located in the San Francisco Bay Area, between the hea
 ![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
 
 There has been a dramatic change in the relative importance of different industries in San Mateo County in the past 25 years.
-The Professional, Scientific, & Technical Services (NCAIS code 54, PSTS) and Information sectors show the most dramatic increases in number of employees over time for this time frame.  
+The Professional, Scientific, & Technical Services (NAICS code 54, PSTS) and Information sectors show the most dramatic increases in number of employees over time for this time frame.  
 
 ![](img/SMCPercentGrowthSince1992BySector.png)  
 
