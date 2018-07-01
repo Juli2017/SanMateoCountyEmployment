@@ -20,14 +20,17 @@ San Mateo County (SMC) is located in the San Francisco Bay Area, between the hea
 <a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
 # Change in San Mateo County Employment by Sector Over Time
 
-I took the top Industry/Sectors from 2017 for San Mateo County, and looked at how the number of employees varied over time from 1992 to 2017.  During this time frame, the High Tech boom saw a rapid rise in companies headquartered in San Mateo County, starting with FaceBook in 19xx.
+I took the top Industry/Sectors from 2017 for San Mateo County, and looked at how the number of employees varied over time from 1992 to 2017.  
 ## Trends in San Mateo County Employment by Sector: 1992-2017
 
 ![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
 
 There has been a dramatic change in the relative importance of different industries in San Mateo County in the past 25 years.
-The Professional, Scientific, & Technical Services (NCAIS code 54, PSTS) shows the most dramatic increase in employees over time for this time frame.  At the same time that the other sectors show a decline, fluctuate around the same number of employees, or show moderate gains in employees, the PSTS and Information sectors have increased dramatically.  The PSTS Industry code includes: computer program or software development, computer software support services, computer software consulting services, computer hardware consulting services, information management computer systems, computer-aided design services, etc. 
+The Professional, Scientific, & Technical Services (NCAIS code 54, PSTS) and Information sectors show the most dramatic increases in number of employees over time for this time frame.  
 
+![](img/SMCPercentGrowthSince1992BySector.png)  
+
+Visualizing the percent change by sector in number of employees over time, relataive to the number in 1992, it is striking that the top 3 industries in 1992 (Retail Trade, Manufacturing, Transportation and Warehousing) were not part of the job growth as seen in 2017.  The Information sector, though showing an over 300% growth rate, showed much more volatility over time.
 # Current Age and gender distribution of workers in San Mateo County
 
 Comparing the 2017 Census data for San Mateo County for all sectors to the profile for the Professional, Scientific, & Technical Services industry, shows the breakdown of employees by age group and gender.
