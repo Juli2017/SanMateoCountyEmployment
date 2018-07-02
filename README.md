@@ -39,7 +39,7 @@ With few exceptions, males dominate all age groups in number of employees in 201
 
 ![](img/PSTSGenderDiffByAgeGroupYearNumbers.png) 
 
-Over time, the absolute difference in employees for the main employment age groups (25-45 years old) within the Professional, Scientific, & Technical Services Sector in San Mateo County has increased significantly since 1992.
+Over time, the absolute difference in employees by gender for the main employment age groups (25-54 years old) within the Professional, Scientific, & Technical Services Sector in San Mateo County has increased significantly since 1992.  During the dot-com bubble in 2001, the younger age group (25-34) had a large disparity between males and females; while at the bottom of the burst bubble, the 35-44 year old age group showed the largest disparity, which has continued into 2017.
 
 
 
