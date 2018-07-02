@@ -10,7 +10,7 @@ U.S. Census data were visualized to compare changes in the distribution of emplo
 
 
 
-San Mateo County (SMC) is located in Northern California, in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  Fast-growing high tech companies have located in the county in the past 25 years, along with existing biotech, finance, and gaming software companies (<a href="https://juli2017.github.io/EmployerPointMap/">Map of large employers in SMC</a>).  The change over time in which industries employ the majority of workers in the county reflects the recent emphasis on High Tech jobs in this part of the state.  For the latest year of data, compared to the state as a whole , the percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector has over twice the percentage of workers in SMC as there are in California.
+San Mateo County (SMC) is located in Northern California, in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  Fast-growing high tech companies have located in the county in the past 25 years, along with existing biotech, finance, and gaming software companies (<a href="https://juli2017.github.io/EmployerPointMap/">Map of large employers in SMC</a>).  The change over time in the industries that employ the majority of workers in the county coincides with the recent emphasis on High Tech jobs in this part of the state.  For the latest year of data, compared to the state as a whole , the percent of workers in the Professional, Scientific, & Technical Services industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector has over twice the percentage of workers in SMC as there are statewide.
 
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
@@ -40,6 +40,7 @@ With few exceptions, males dominate all age groups in number of employees in 201
 ![](img/PSTSGenderDiffByAgeGroupYearNumbers.png) 
 
 Over time, the absolute difference in employees by gender for the main employment age groups (25-54 years old) within the Professional, Scientific, & Technical Services Sector in San Mateo County has increased significantly since 1992.  During the dot-com bubble in 2001, the younger age group (25-34) had a large disparity between males and females; while at the bottom of the burst bubble, the 35-44 year old age group showed the largest disparity, which has continued into 2017.  While males have always been over-represented in the PSTS sector, the difference in employment by gender is increasing over time in San Mateo County. 
+
 
 
 
