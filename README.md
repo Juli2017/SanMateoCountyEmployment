@@ -7,7 +7,7 @@ Project for MOOC Data Visualization for Storytelling and Discovery
 U.S. Census data were visualized to compare changes in the distribution of employment in San Mateo County from 1992-2017.
 
 <a href="url"><img src="img/UnlabeledMapSMC.png" align="left" height="250" width="200" ></a>
-<a href="url"><img src="img/BayAreaCountyMap.png" align="left" height="250" width="400" ></a>
+<a href="url"><img src="img/BayAreaCountyMap.png" align="left" height="250" width="250" ></a>
 
 
 
