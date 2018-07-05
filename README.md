@@ -51,11 +51,12 @@ Visualizing the percent change by sector in number of employees over time, relat
 
 The job market is dominated by fewer industries in 2017.  Are working aged people of all ages and gender equally likely to benefit from the increased employment opportunities in the county?
 
-![](img/SanMateoCountyButterflyChartSectorSexAgeComparison2017.png)  
+![](img/ButterflyCharts3.png)  
 
 With few exceptions, males dominate all age groups in number of employees in 2017.
 
 ![](img/PSTSGenderDiffByAgeGroupYearNumbers.png) 
+![](img/InformationSectorAgeSexDiffByYear.png) 
 
 Over time, the absolute difference in employees by gender for the main employment age groups (25-54 years old) within the Professional, Scientific, & Technical Services Sector in San Mateo County has increased significantly since 1992.  During the dot-com bubble in 2001, the younger age group (25-34) had a large disparity between males and females; while at the bottom of the burst bubble, the 35-44 year old age group showed the largest disparity, which has continued into 2017.  While males have always been over-represented in the PSTS sector, the difference in employment by gender is increasing over time in San Mateo County. 
 
