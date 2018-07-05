@@ -42,7 +42,7 @@ San Mateo County had fewer Information Sector employees than the adjacent San Fr
 
 ![](img/Filterd_facet_SMCBySectorByYearThinGray.png)  
 
-There has been a dramatic change in the relative importance of different industries in San Mateo County in the past 25 years.  There was no clear dominant industry in 1992, so more diversity in types of jobs available.  The Professional, Scientific, & Technical Services (NAICS code 54, PSTS) and Information sectors show the most dramatic increases in number of employees over time in the past 25 years, and now dominate the employment numbers.  
+There has been a dramatic change in the relative importance of different industries in San Mateo County in the past 25 years.  There was no clear dominant industry in 1992.  The Professional, Scientific, & Technical Services and Information sectors show the most dramatic increases in number of employees over time in the past 25 years, and now dominate the jobs in San Mateo County.  
 
 ![](img/SMCPercentGrowthSince1992BySector.png)  
 
