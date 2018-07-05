@@ -1,7 +1,7 @@
 Link to website: https://juli2017.github.io/SanMateoCountyEmployment/
 
 
-# Changes in the distribution of employees by industry in San Mateo County, CA in the last 25 years
+# Changes in the distribution of jobs in San Mateo County, CA in the last 25 years
 Project for MOOC Data Visualization for Storytelling and Discovery
 
 U.S. Census data were visualized to compare changes in the distribution of employment in San Mateo County from 1992-2017.
