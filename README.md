@@ -16,7 +16,8 @@ San Mateo County (SMC) is located in Northern California, in the San Francisco B
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
 
-<a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>
+<a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>  
+
 <a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
 
 
