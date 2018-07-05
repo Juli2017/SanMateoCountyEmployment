@@ -11,10 +11,16 @@ U.S. Census data were visualized to compare changes in the distribution of emplo
 
 
 
-San Mateo County (SMC) is located in Northern California, in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  Fast-growing high tech companies have located in the county in the past 25 years, along with existing biotech, finance, and gaming software companies (<a href="https://juli2017.github.io/EmployerPointMap/">Map of large employers in SMC</a>).  The change over time in the industries that employ the majority of workers in the county coincides with the recent emphasis on High Tech jobs in this part of the state.  For the latest year of data, compared to the state as a whole , the percent of workers in the Professional, Scientific, & Technical Services (NAICS = 54) industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector (NAICS = 51) has over twice the percentage of workers in SMC as there are statewide.  What are the trends in these two sectors of employment in San Mateo County over time?
-
+San Mateo County (SMC) is located in Northern California, in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  Fast-growing high tech companies have located in the county in the past 25 years, along with existing biotech, finance, and gaming software companies (<a href="https://juli2017.github.io/EmployerPointMap/">Map of large employers in SMC</a>).  
 
 ![](img/CompareOrderSectorsCASMC%25.png)  
+
+<a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>
+<a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
+
+
+The change over time in the industries that employ the majority of workers in the county coincides with the recent emphasis on High Tech jobs in this part of the state.  For the latest year of data, compared to the state as a whole , the percent of workers in the Professional, Scientific, & Technical Services (NAICS = 54) industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector (NAICS = 51) has over twice the percentage of workers in SMC as there are statewide.  What are the trends in these two sectors of employment in San Mateo County over time?
+
 
 <p float="left">
   <img src="img/InformationSectorMap1992.png" width="400" height="400"/>
@@ -27,10 +33,6 @@ San Mateo County (SMC) is located in Northern California, in the San Francisco B
 </p>
 
 San Mateo County had fewer Information Sector employees than the adjacent San Francisco and Santa Clara counties in both 1992 and 2017.
-
-<a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>
-
-<a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
 
 
 ## Trends in San Mateo County Employment by Sector: 1992-2017
