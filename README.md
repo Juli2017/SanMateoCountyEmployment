@@ -49,9 +49,11 @@ There has been a dramatic change in the relative importance of different industr
 Visualizing the percent change by sector in number of employees over time, relataive to the number in 1992, it is striking that the top 3 industries in 1992 (Retail Trade, Manufacturing, Transportation and Warehousing) were not part of the job growth as seen in 2017.  The Information sector, though showing an over 300% growth rate, showed much more volatility over time.
 # Age and Gender distribution of workers in San Mateo County
 
-The job market is dominated by fewer industries in 2017.  Are working aged people of all ages and gender equally likely to benefit from the increased employment opportunities in the county?
+<a href="url"><img src="img/ButterflyCharts1.png" align="left" height="250" width="200" ></a>  
+The job market is dominated by fewer industries in 2017.  Are working aged people of all ages and gender equally likely to benefit from the increased employment opportunities in the county?  The Butterfly Charts show how employees are spread out among age groups and between genders.  For All Sectors of employment in San Mateo County in 2017, the figure has a symmetry across age groups in spite of a slight over-representation of males.
 
-![](img/ButterflyCharts3.png)  
+
+![](img/ButterflyCharts2.png)  
 
 With few exceptions, males dominate all age groups in number of employees in 2017.
 
