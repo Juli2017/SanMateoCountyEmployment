@@ -62,7 +62,7 @@ Over time, the absolute difference in employees by gender for the main employmen
 
 ## Trends in Employment and Median Home Price in San Mateo County  
 
-<div class="flourish-embed" data-src="visualisation/70798"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/70798"></div><script src="https://public.flourish.studio/resource/embed.js"></script>
 
 
 
