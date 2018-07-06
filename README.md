@@ -57,9 +57,9 @@ The job market is dominated by fewer industries in 2017.  Are working aged peopl
 
 For the Professional, Scientific & Technical Services sector, there is a more abrupt attenuation of employment between the 45-54 and 55-64 age groups, and a larger differential between female and male employees in every age group.  This is exagerated even more for the Information sector, where the abrupt decline in employees occurs between the 25-34 and 35-44 age groups.  The asymmetry between males and females in employment is more pronounced, and there is no symmetry horizontally or vertically.
 
-<a href="url"><img src="img/PSTSGenderDiffByAgeGroupYearNumbers.png" align="left" height="450" width="800" align="right"></a>                 
+     <a href="url"><img src="img/PSTSGenderDiffByAgeGroupYearNumbers.png" align="left" height="450" width="800" align="right"></a>                 
 
-<a href="url"><img src="img/InformationSectorAgeSexDiffByYear.png" align="left" height="450" width="800" align="right"></a>              
+      <a href="url"><img src="img/InformationSectorAgeSexDiffByYear.png" align="left" height="450" width="800" align="right"></a>              
 
 
 
