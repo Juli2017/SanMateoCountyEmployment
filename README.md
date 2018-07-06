@@ -26,8 +26,8 @@ The change over time in the industries that employ the majority of workers in th
 ## Trends in Bay Area County Employment by Sector: 1992 vs. 2017
 
 <p float="left">
-  <img src="img/InformationSectorMap1992.png" width="400" height="400"/>
-  <img src="img/InformationSectorMap2017.png" width="400" height="400"/> 
+  <img src="img/1992InformationBayAreaCountiesMapCustomCuts.png" width="400" height="400"/>
+  <img src="img/2017BayAreaCountiesInformationMap.png" width="400" height="400"/> 
 </p>
 
 <p float="left">
