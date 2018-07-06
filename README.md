@@ -61,11 +61,9 @@ For the Professional, Scientific & Technical Services sector, there is a more ab
 
    <a href="url"><img src="img/InformationSectorAgeSexDiffByYear.png" align="left" height="450" width="800" align="right"></a>              
 
-
-
-
+<p float="left">
 Over time, the absolute difference in employees by gender for the main employment age groups (25-54 years old) within the Professional, Scientific, & Technical Services and Information Sectors in San Mateo County have increased significantly since 1992.  During the dot-com bubble in 2001, the younger age group (25-34) had a large disparity between males and females; while at the bottom of the burst bubble, the 35-44 year old age group showed the largest disparity, which has continued into 2017.  While males have always been over-represented in the PSTS sector, the difference in employment by gender for these highly skilled, highly paid jobs is increasing over time in San Mateo County. 
-
+</p>
 ## Trends in Employment and Median Home Price in San Mateo County  
 
 
