@@ -31,8 +31,8 @@ The change over time in the industries that employ the majority of workers in th
 </p>
 
 <p float="left">
-  <img src="img/1992BayAreaCountiesPSTSMapCustomCuts.png" width="400" height="400" align="right"/>
-  <img src="img/2017BayAreaCountiesMapPSTSCustomCuts.png" width="400" height="400" align="right"/> 
+  <img src="img/1992BayAreaCountiesPSTSMapCustomCuts.png" width="400" height="400"/>
+  <img src="img/2017BayAreaCountiesMapPSTSCustomCuts.png" width="400" height="400"/> 
 </p>
 
 San Mateo County and its adjacent counties had similar numbers of Information Sector employees in 1992, but there was significant growth in San Mateo, San Francisco and Santa Clara counties by 2017, with the most in Santa Clara County.  For the Professional, Scientific & Technical Services sector, San Mateo county had fewer employees in 1992 than all three adjacent counties, and San Francisco, Santa Clara and Alameda counties all grew significantly in number of employees for this sector, along with San Mateo county. 
@@ -57,9 +57,9 @@ The job market is dominated by fewer industries in 2017.  Are working aged peopl
 
 For the Professional, Scientific & Technical Services sector, there is a more abrupt attenuation of employment between the 45-54 and 55-64 age groups, and a larger differential between female and male employees in every age group.  This is exagerated even more for the Information sector, where the abrupt decline in employees occurs between the 25-34 and 35-44 age groups.  The asymmetry between males and females in employment is more pronounced, and there is no symmetry horizontally or vertically.
 
-<a href="url"><img src="img/PSTSGenderDiffByAgeGroupYearNumbers.png" align="left" height="450" width="800" ></a>  
+<a href="url"><img src="img/PSTSGenderDiffByAgeGroupYearNumbers.png" align="left" height="450" width="800" align="right"></a>  
 
-<a href="url"><img src="img/InformationSectorAgeSexDiffByYear.png" align="left" height="450" width="800" ></a>  
+<a href="url"><img src="img/InformationSectorAgeSexDiffByYear.png" align="left" height="450" width="800" align="right"></a>  
 
 
 
