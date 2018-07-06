@@ -57,14 +57,14 @@ The job market is dominated by fewer industries in 2017.  Are working aged peopl
 
 For the Professional, Scientific & Technical Services sector, there is a more abrupt attenuation of employment between the 45-54 and 55-64 age groups, and a larger differential between female and male employees in every age group.  This is exagerated even more for the Information sector, where the abrupt decline in employees occurs between the 25-34 and 35-44 age groups.  The asymmetry between males and females in employment is more pronounced, and there is no symmetry horizontally or vertically.
 
-<a href="url"><img src="img/PSTSGenderDiffByAgeGroupYearNumbers.png" align="left" height="500" width="850" align="right"></a>                 
-<a href="url"><img src="img/InformationSectorAgeSexDiffByYear.png" align="left" height="500" width="850" align="right"></a>              
+<a href="url"><img src="img/PSTSGenderDiffByAgeGroupYearNumbers.png" align="left" height="400" width="700" align="right"></a>                 
+<a href="url"><img src="img/InformationSectorAgeSexDiffByYear.png" align="left" height="400" width="700" align="right"></a>              
 
 Over time, the absolute difference in employees by gender for the main employment age groups (25-54 years old) within the Professional, Scientific, & Technical Services and Information Sectors in San Mateo County have increased significantly since 1992.  During the dot-com bubble in 2001, the younger age group (25-34) had a large disparity between males and females; while at the bottom of the burst bubble, the 35-44 year old age group showed the largest disparity, which has continued into 2017.  While males have always been over-represented in the PSTS sector, the difference in employment by gender for these highly skilled, highly paid jobs is increasing over time in San Mateo County. 
 
 ## Trends in Employment and Median Home Price in San Mateo County  
 
 
-<iframe src='https://public.flourish.studio/visualisation/70798/embed' frameborder='0' scrolling='no' style='width:50%;height:400px;'></iframe><div style='width:50%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/70798/?utm_source=embed&utm_campaign=visualisation/70798' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://public.flourish.studio/visualisation/70798/embed' frameborder='0' scrolling='no' style='width:70%;height:600px;'></iframe><div style='width:70%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/70798/?utm_source=embed&utm_campaign=visualisation/70798' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
