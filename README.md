@@ -35,7 +35,7 @@ The change over time in the industries that employ the majority of workers in th
   <img src="img/2017BayAreaCountiesMapPSTSCustomCuts.png" width="400" height="400"/> 
 </p>
 
-San Mateo County had fewer Information Sector employees than the adjacent San Francisco and Santa Clara counties in both 1992 and 2017.
+San Mateo County and its adjacent counties had similar numbers of Information Sector employees in 1992, but there was significant growth in San Mateo, San Francisco and Santa Clara counties by 2017, with the most in Santa Clara County.  For the Professional, Scientific & Technical Services sector, San Mateo county had fewer employees in 1992 than all three adjacent counties, and San Francisco, Santa Clara and Alameda counties all grew significantly in number of employees for this sector, along with San Mateo county. 
 
 
 ## Trends in San Mateo County Employment by Sector: 1992-2017
