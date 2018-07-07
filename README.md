@@ -21,7 +21,7 @@ San Mateo County (SMC) is located in Northern California, in the San Francisco B
 <a href="https://www.bls.gov/iag/tgs/iag_index_naics.htm">Bureau of Labor Statistics NAICS/Industry Sector Codes</a>
 
 
-The change over time in the industries that employ the majority of workers in the county coincides with the recent emphasis on High Tech jobs in this part of the state.  For the latest year of data, compared to the state as a whole , the percent of workers in the Professional, Scientific, & Technical Services (PSTS; NAICS = 54) industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector (NAICS = 51) has over twice the percentage of workers in SMC as there are statewide.  
+The rank of industry/sector by number of employees differs between San Mateo County and the state of California.  The percent of workers in the Professional, Scientific, & Technical Services (PSTS; NAICS = 54) industry is 14% in San Mateo County, but only 7% in California.  Similarly, the Information Sector (NAICS = 51) has over twice the percentage of workers in SMC as there are statewide.  
 
 ## Trends in Bay Area County Employment by Sector: 1992 vs. 2017
 
@@ -35,7 +35,7 @@ The change over time in the industries that employ the majority of workers in th
   <img src="img/2017BayAreaCountiesMapPSTSCustomCuts.png" width="400" height="400"/> 
 </p>
 
-San Mateo County and its adjacent counties had similar numbers of Information Sector employees in 1992, but there was significant growth in San Mateo, San Francisco and Santa Clara counties by 2017, with the most in Santa Clara County.  For the Professional, Scientific & Technical Services sector, San Mateo county had fewer employees in 1992 than all three adjacent counties, and San Francisco, Santa Clara and Alameda counties all grew significantly in number of employees for this sector, along with San Mateo county. 
+San Mateo County and its adjacent counties have all experienced growth in jobs in the Professional, Scientific & Technical Services and Information sectors since 1992, but the number of employees in these sectors vary across counties.
 
 
 ## Trends in San Mateo County Employment by Sector: 1992-2017
