@@ -14,7 +14,7 @@ U.S. Census data were visualized to compare changes in the distribution of emplo
 
 San Mateo County (SMC) is located in Northern California, in the San Francisco Bay Area, between the heart of Silicon Valley in Santa Clara County and San Francisco County.  Fast-growing high tech companies have located in the county in the past 25 years, along with existing biotech, finance, and gaming software companies (<a href="https://juli2017.github.io/EmployerPointMap/">Map of large employers in SMC</a>).  
 
-![](img/CompareOrderSectorsCASMC%25.png)  
+![](img/CASMCBarChartSectors2017.png)  
 
 <a href="https://qwiexplorer.ces.census.gov/static/explore.html#x=0&g=0">U.S. Census Data downloaded from QWI explorer</a>  
 
