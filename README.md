@@ -35,7 +35,7 @@ The rank of industry/sector by number of employees differs between San Mateo Cou
   <img src="img/2017BayAreaCountiesMapPSTSCustomCuts.png" width="400" height="400"/> 
 </p>
 
-San Mateo County and its adjacent counties have all experienced growth in jobs in the Professional, Scientific & Technical Services and Information sectors since 1992, but the number of employees in these sectors vary across counties.
+San Mateo County and its adjacent counties have all experienced growth in jobs in the Professional, Scientific & Technical Services and Information sectors since 1992, but the number of employees in these sectors varies across counties.
 
 
 ## Trends in San Mateo County Employment by Sector: 1992-2017
